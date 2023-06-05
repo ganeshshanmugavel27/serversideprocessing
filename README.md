@@ -6,7 +6,7 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-Clone the repository from GitHub
+Clone the repository from GitHub.
 
 
 
